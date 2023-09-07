@@ -1,5 +1,4 @@
 # Code Refactor Starter Code
-<h1>Code Refractor - Horiseon </h1>
 
 <strong>Goal: Refactor code of an existing webpage that follows accessibility standards
 and to optimize for search engines</strong>
